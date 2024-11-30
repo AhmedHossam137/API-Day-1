@@ -1,0 +1,6 @@
+@apii_day_1_HostAddress = http://localhost:5097
+
+GET {{apii_day_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
